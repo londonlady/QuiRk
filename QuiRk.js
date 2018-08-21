@@ -182,7 +182,7 @@ function pShow() {
         x.style.display = "none";
         y.style.display = "none";
         z.style.display = "none";
-        a.style.display = "name";
+        a.style.display = "none";
         c.style.display = "none";
 
     } else {
